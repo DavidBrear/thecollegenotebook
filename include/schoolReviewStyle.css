@@ -1,0 +1,35 @@
+#starBoard img
+{
+	margin: 0px;
+	padding: 0px;
+	cursor: pointer;
+}
+#star1
+{
+	margin-left: 3px;
+}
+#star2
+{
+	position: relative;
+	left: -5px;
+}
+#star3
+{
+	position: relative;
+	left: -10px;
+}
+#star4
+{
+	position: relative;
+	left: -15px;
+}
+#star5
+{
+	position: relative;
+	left: -20px;
+}
+#starBoard
+{
+	text-align: -moz-center;
+	text-align: center;
+}

@@ -1,0 +1,106 @@
+	#headerHEADER
+	{
+		margin: 0px auto;
+		padding: 10px;
+		width: 930px;
+		background-color: #004309;
+	}
+	#innerHeaderHEADER
+	{
+		width: 900px;
+		background-color: #FFF;
+		margin: 10px auto;
+		text-align: -moz-center;
+		text-align: center;
+		font-size: 25px;
+		color: #000;
+		font-weight: bold;
+	}
+	#contentHEADER
+	{
+		background-color: #004309;
+		width: 930px;
+		padding: 10px;
+		margin: 0px auto;
+	}
+	#navHEADER
+	{
+		background-color: #FFF;
+		padding: 0px;
+		text-align: -moz-left;
+		text-align: left;
+		padding-left: 20px;
+	}
+	#navHEADER li
+	{
+		text-align: -moz-center;
+		text-align: center;
+		float: left;
+		padding: 0px;
+		padding-top: 10px;
+		margin: 0px;
+		margin-top: 5px;
+		list-style: none;
+		width: 100px;
+		height: 50px;
+		background-image: url('/images/tab.png');
+		background-repeat: no-repeat;
+		cursor: pointer;
+	}
+	#navHEADER li.none
+	{
+		color: #FFF;
+		font-weight: bold;
+		text-align: -moz-center;
+		text-align: center;
+		float: right;
+		padding: 0px;
+		margin: 0px;
+		list-style: none;
+		width: 360px;
+		height: 39px;
+		font-size: 12px;
+		margin-left: 70px;
+		
+		border-bottom: 1px #004309 solid;
+		background-image: none;
+		background-color: #004309;
+		background-repeat: no-repeat;
+		cursor: pointer;
+	}
+	#navHEADER ul
+	{
+		height: 40px;
+		margin: 0px;
+		padding: 0px;
+		margin-left: 20px;
+	}
+	#navHEADER a
+	{
+		width: 120px;
+		margin: 0px;
+		color: #FFF;
+		text-decoration: none;
+		
+	}
+	#navHEADER a:hover
+	{
+		color: #FFF;
+		text-decoration: none;
+	}
+	#bodyHEADER
+	{
+		margin: 10px auto;
+		background-color: #FFF;
+		width: 900px;
+		height: 580px;
+		border: 2px #000 solid;
+		margin-top: 20px;
+	}
+	#pagetitleHEADER
+	{
+		font-size: 30px;
+		letter-spacing: 5px;
+		color: #004309;
+		border-bottom: 2px #004309 dashed;
+	}

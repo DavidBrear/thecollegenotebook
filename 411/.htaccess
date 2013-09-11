@@ -1,0 +1,14 @@
+RewriteEngine on
+
+
+
+RewriteCond %{HTTP_HOST} !(411oncollege.com) [NC]
+RewriteRule (.*) http://411onCollege.com [R,L]
+
+RewriteCond %{HTTP_HOST} ^www\.411onCollege\.com$ [NC]
+RewriteRule (.*) http://411onCollege.com/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} 411oncollege\.com$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.)+ /finder.php [L]

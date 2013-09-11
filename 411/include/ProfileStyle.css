@@ -1,0 +1,154 @@
+
+#IDbox
+{
+	position: absolute;
+	display: none;
+	background-color: #23616f;
+	border: 2px #FFF solid;
+	color: #FFF;
+	padding: 2px;
+	filter:alpha(opacity=60);
+	-moz-opacity: .6;
+	opacity: .6;
+	font-size: 12px;
+	padding: 2px;
+}
+#profileTable
+{
+	width: 800px;
+	margin: 0px auto;
+}
+#userPictureArea
+{
+	border: 1px #AAA solid;
+	width: 275px;
+	text-align: -moz-center;
+	text-align: center;
+	margin: 0px auto;
+}
+#userDiv
+{
+	font-size: 10px;
+}
+#userpictureIMG
+{
+	margin: 0px;
+	margin-top: 10px;
+	border: 1px #000 solid;
+}
+#userDesc
+{
+	font-size: 12px;
+}
+#userDesc p
+{
+	margin: 0px;
+}
+#userDesc a
+{
+	font-size: 10px;
+}
+#left
+{
+	float: left;
+	text-align: -moz-center;
+	text-align: center;
+}
+#right
+{
+	float: right;
+}
+#aboutMeBox
+{
+	font-size: 12px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#aboutMeBox p
+{
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	font-weight: bold;
+	color: #333;
+}
+#friendsBox
+{
+	text-align:-moz-center;
+	text-align:center;
+}
+#commentsBox
+{
+	font-size: 12px;
+	font-family: Arial;
+	width: 450px;
+}
+#commentsBox p
+{
+	font-size: 12px;
+	margin: 0px;
+}
+#viewAllLink
+{
+	width: 100px;
+	text-align: -moz-center;
+	text-align: center;
+	margin: 0px auto;
+}
+.pageTitleProfile
+{
+	font-size: 14px;
+	color: #FFF;
+	font-weight: bold;
+	font-family: Trebuchet;
+	text-align: -moz-center;
+	text-align: center;
+}
+.pageTitle2Profile
+{
+	background-color: #005358;
+	text-align: -moz-center;
+	text-align: center;
+	color: #FFF;
+	font-size: 12px;
+}
+#ProfTop
+{
+	width: 300px;
+	font-size: 12px;
+}
+#ProfTop .att
+{
+	font-size: 12px;
+	background-color: #F0F0F0;
+	text-align: -moz-right;
+	text-align: right;
+}
+.likes
+{
+	background-color: #afa;
+	color: #000;
+	font-size: 12px;
+	width: 100%;
+}
+.dislikes
+{
+	background-color: #Faa;
+	color: #000;
+	font-size: 12px;
+}
+#quoteDiv
+{
+	display: none;
+	font-size: 12px;
+	background-color: #FFFFBB;
+}
+#quote
+{
+	width: 100%;
+}
+.likesInner
+{
+	width: 100%;
+	padding: 5px;
+}

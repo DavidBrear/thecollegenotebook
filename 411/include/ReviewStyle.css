@@ -1,0 +1,25 @@
+.box
+{
+	margin: 20px;
+}
+#reviewTable td
+{
+	border: 1px #E0E0E0 solid;
+}
+#reviewTable .caption
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+#reviewTable p
+{
+	display: inline;
+	font-weight: bold;
+}
+#review
+{
+	text-align: -moz-left;
+	text-align: left;
+}

@@ -1,0 +1,65 @@
+#login
+{
+	background-color: #F0F0F0;
+	border: 1px #002a71 solid;
+	width: 300px;
+	height: 160px;
+	margin-left: 30px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+a
+{
+	color: #001a71;
+	text-decoration: none;
+	font-size: 12px;
+}
+a:hover
+{
+	color: #005aa1;
+	text-decoration: underline;
+}
+.boxTitle
+{
+	border-top: 2px #000 solid;
+	border-bottom: 2px #000 solid;
+	background-color: #005358;
+	font-weight: bold;
+	font-size: 15px;
+	color: #FFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#description
+{
+	float: right;
+	width: 400px;
+	color: #FFF;
+	font-size: 14px;
+	margin-top: 100px;
+	background-color: #005358;
+	border: 2px #000 solid;
+	background-image: url('/images/blackHaze.png');
+}
+.error
+{
+	background-color: #Faa;
+	border: 2px #F00 solid;
+	color: #F00;
+	text-align: -moz-center;
+	text-align: center;
+}
+#buttons
+{
+	float: right;
+	clear: right;
+}
+#buttons img
+{
+	border: 0px #FFF solid;
+}
+.loginbutton
+{
+	background-color: #FFF;
+	cursor: pointer;
+}

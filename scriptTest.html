@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Test</title>
+<script src="javascripts/prototype.js" type="text/javascript"></script>
+<script src="javascripts/scriptaculous.js" type="text/javascript"></script>
+<script src="javascripts/alerttest.js" type="text/javascript"></script>
+<style>
+	body{vertical-align: middle; line-height: 200%;}
+	div.main
+	{
+		border: 2px #000 solid;
+		width: 30%;
+		font-size: 140%;
+		text-align: center;
+		letter-spacing: .5em;
+		text-transform: uppercase;
+	}
+	div.top{border: 1em #f00 solid; padding:2em 0em; background-color: #900;}
+	div.middle{border: 1em #0f0 solid; background-color: #090;}
+	div.bottom{border: 1em #00f solid; background-color: #009;}
+	div.footer{margin: 1em 0em;}
+	div.footer div{border: 1em #ccc solid; background-color: #666; display: inline; margin: 2em 0em; text-align: center; }
+</style>
+</head>
+<body>
+<div class="main">
+	<div class="top" id="top" onclick="new Effect.BlindUp(this); window.setTimeout('Effect.Appear(\'top\', {duration:.3})', 1000);">
+		hello
+	</div>
+	<div class="middle" onclick="new Effect.SlideUp(this);">
+		world
+	</div>
+	<div class="bottom">
+			bottom
+	</div>
+	<div class="footer">
+		<div>
+			David
+		</div>
+		<div>
+			Brear
+		</div>
+		
+	</div>
+</div>
+</body>
+</html>

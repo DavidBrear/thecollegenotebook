@@ -1,0 +1,236 @@
+/***********************ASK STYLES********************/
+#askForm
+{
+	width: 99%;
+	height: 130px;
+	text-align: -moz-center;
+	text-align: center;
+	border-top: 2px #DDD solid;
+	border-bottom: 2px #DDD solid;
+	background-color: #F0F0F0;
+}
+#askForm textarea
+{
+	border: 1px #AAA solid;
+	color: #777;
+}
+#askForm td
+{
+	border: 2px #FFF solid;
+	font-size: 11px;
+	color: #525252;
+	font-weight: bold;
+	vertical-align: top;
+}
+#askSubmit
+{
+	margin-left: 300px;
+	margin-top: 5px;
+	font-weight: bold;
+	font-family: Verdana, Comic Sans Serif, Trebuchet, Arial;
+}
+.questionSubject
+{
+	color: #525252;
+	font-weight: bold;
+	font-family: Comic Sans MS, Comic Sans Serif, Comic Sans, Verdana, TIMES, ARIAL;
+	font-size: 18px;
+}
+.questionBody
+{
+	font-size: 11px;
+}
+.questionDate
+{
+	float: right;
+	color: #555;
+	font-weight: bold;
+	font-size: 10px;
+	font-family: Arial, Times, Verdana;
+	
+}
+#askTable
+{
+	margin: 0px auto;
+}
+#askTable td
+{
+	width: 500px;
+	margin-top: 10px;
+	background-color: #a4a4a4;
+	background-image: url('../images/askQuestionBack.gif');
+	background-repeat: repeat-x;
+	border-top:2px #777 solid;
+	border-bottom:2px #777 solid;
+	border-left:1px #DDD solid;
+	border-right:1px #DDD solid;
+	padding: 10px;
+}
+.askTextarea
+{
+	display: none;
+	width: 100%;
+}
+.askTextarea textarea
+{
+	width: 300px;
+	height: 100px;
+	overflow: auto;
+}
+.askResponseArea
+{
+	display: none;
+}
+.responseText
+{
+	width: 100%;
+	font-size: 11px;
+	margin-top: 15px;
+	border: 1px #AAA solid;
+	background-color: #FFF;
+}
+.responseUser img
+{
+	border: 2px #000 solid;
+}
+.responseUser p
+{
+	font-size: 10px;
+}
+#whatAbout
+{
+	background-color: #F0F0F0;
+	border: 2px #AAA solid;
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	display: none;
+}
+#whatAbout div
+{
+	width: 425px;
+	border: 2px #000 solid;
+	text-align: -moz-left;
+	text-align: left;
+}
+#whatAbout #AboutMain
+{
+	border: 0px #FFF solid;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	width: 420px;
+	margin: 0px auto;
+	background-color: #FFF;
+}
+#whatAbout #close
+{
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #525252;
+	background-image: url('/images/dragmeback.gif');
+	background-repeat: repeat-x;
+	height: 20px;
+	margin: 0px auto;
+	font-size: 13px;
+	letter-spacing: 3px;
+	font-family: Comic Sans MS;
+	color: #F0F0F0;
+	border: 0px #FFF solid;
+	cursor: pointer;
+}
+#whatAbout #close div
+{
+	float: left;
+	margin-left: 20px;
+	border: 0px #FFF solid;
+	width: 50px;
+	height: 20px;
+	background-image: url('/images/dragme.gif');
+	background-repeat: no-repeat;
+}
+#whatAbout #close a
+{
+	float: right;
+	color: #FFF;
+	font-weight: bold;
+	margin-right: 5px;
+}
+#whatAbout #close a:hover
+{
+	text-decoration: none;
+	color: #AAA;
+}
+.responseRate:hover
+{
+	background-color: transparent !important;
+}
+
+#confirmation
+{
+	background-color: #F0F0F0;
+	border: 2px #AAA solid;
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	display: none;
+	width: 300px;
+	height: 200px;
+	font-size: 15px;
+}
+#confirmation #close
+{
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #525252;
+	background-image: url('/images/dragmeback.gif');
+	background-repeat: repeat-x;
+	height: 20px;
+	margin: 0px auto;
+	font-size: 11px;
+	letter-spacing: 3px;
+	font-family: Comic Sans MS;
+	color: #F0F0F0;
+	border: 0px #FFF solid;
+	cursor: pointer;
+}
+#confirmation #close div
+{
+	float: left;
+	margin-left: 100px;
+	font-weight: bold;
+}
+#confirmation #close a
+{
+	float: right;
+	color: #FFF;
+	font-weight: bold;
+	margin-right: 5px;
+}
+#confirmation #close a:hover
+{
+	text-decoration: none;
+	color: #AAA;
+}
+#confirmation a.confirmA
+{
+	background-color: #F0F0F0;
+	border: 1px #000 solid;
+	color: #FFF;
+	font-weight: bold;
+	padding: 10px;
+	float: left;
+	margin-top: 20px;
+}
+a.confirmA:hover
+{
+	background-color: #006329 !important;
+}
+#confirmID
+{
+	font-size: 11px;
+}
+.SearchTable td
+{
+	border: none !important;
+}
+/************************END ASK**********************/

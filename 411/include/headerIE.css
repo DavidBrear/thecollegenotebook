@@ -1,0 +1,39 @@
+#navigation
+{
+	width: 900px;
+	margin: 0px auto;
+	padding-left: 60px;
+	background-image: url('/images/navigationBack.gif');
+	background-repeat: repeat-x;
+	height: 30px;
+	text-align: -moz-center;
+	text-align: center;
+}
+#headerLeft
+{
+	left: -8px !important;
+}
+#headerRight
+{
+	left: 8px !important;
+}
+#body
+{
+	background-position: 0px 11px
+}
+.RoundSquareTL
+{
+	display: none;
+}
+.RoundSquareTR
+{
+	display: none;
+}
+.RoundSquareBL
+{
+	display: none;
+}
+.RoundSquareBR
+{
+	display: none;
+}

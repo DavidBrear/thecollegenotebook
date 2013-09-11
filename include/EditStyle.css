@@ -1,0 +1,100 @@
+/*********EDIT PROFILE*************/
+#likes
+{
+	display: none;
+}
+#likes table
+{
+	border: 2px #AAA solid;
+	
+}
+#editLeft
+{
+	display: none;
+}
+#editRight
+{
+	display: none;
+}
+#editLeft div.note
+{
+	width: 300px;
+	margin: 0px auto;
+}
+#privacyEdit
+{
+	display: none;
+	background-color: #F0F0F0;
+	border: 2px #DDD solid;
+}
+#privacyEdit #mailSquare
+{
+	border: 1px #525252 solid;
+	background-color: #FFF;
+	padding: 15px;
+	color: #525252;
+}
+#privacyEdit #privacySquare
+{
+	border: 1px #525252 solid;
+	background-color: #FFF;
+	padding: 15px;
+}
+#profileedit
+{
+	width: 650px;
+	margin: 0px auto;
+}
+#editNavPage
+{
+	text-align: -moz-center;
+	text-align: center;
+	margin: 5px 10px;
+	background-color: #FFD;
+	height: 35px;
+	padding-top: 0px;
+	border: 2px #005b0c solid;
+}
+#editNavPage ul li
+{
+	list-style: none;
+	display: inline;
+}
+#editNavPage ul li a
+{
+	color: #777 !important;
+	
+}
+#editNavPage ul li a:hover
+{
+	color: #000 !important;
+	text-decoration: none !important;
+}
+.EditButton
+{
+	width: 100px;
+	text-align: -moz-center;
+	text-align: center;
+	display: inline;
+	border: 2px #004309 solid;
+	background-color: #FFF;
+	padding: 4px 5px;
+	margin: 0px;
+}
+.date
+{
+	font-size: 10px;
+}
+#Editlikes
+{
+	background-color: #cfc;
+	overflow: auto;
+	border: 2px #00ab0c solid;
+}
+#Editdislikes
+{
+	background-color: #fcc;
+	overflow: auto;
+	border: 2px #ab000c solid;
+}
+/**********END EDIT PROFILE********/

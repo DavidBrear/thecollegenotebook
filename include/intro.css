@@ -1,0 +1,151 @@
+body
+{
+	background: #ddd url('/images/background.png') repeat-x;
+	background-position: 0px 250px;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, Georgia, TIMES;
+	font-size: 11px;
+	text-align: -moz-center;
+	text-align: center;
+}
+#testTop
+{
+	margin: 0px auto;
+	width: 920px;
+	margin-top: 2%;
+	padding: 0px;
+}
+img
+{
+	margin: 0px;
+	border: none;
+	padding: 0px;
+}
+#testBottom
+{
+	margin: 0px auto;
+	width: 920px;
+	height: 5px;
+}
+#loginTable
+{
+	margin: 0px auto;
+	width: 880px;
+}
+#loginTable td
+{
+	width: 30%;
+}
+#loginContainer
+{
+	width: 920px;
+	margin: 0px auto;
+	background: #000 url('/images/introbodybg.png') repeat-y;
+	padding: 0px;
+}
+#controlbox
+{
+	background-color: #FFF;
+	width: 900px;
+	margin: 0px auto;
+}
+.boxHeader
+{
+	background-color: #E0E0E0;
+	border-top: 1px #000 solid;
+	border-bottom: 1px #000 solid;
+	color: #000;
+	font-size: 15px;
+	height: 20px;
+	margin: 10px 0px;
+	text-align: -moz-center;
+	text-align: center;
+}
+.boxHeader p
+{
+	height: 20px;
+	width: 100%;
+	margin: 0px auto;
+	font-weight: bold;
+}
+#footer
+{
+	width: 850px;
+	margin: 0px auto;
+	background-color: #DDD;
+	border: 2px #000 solid;
+}
+#leftCol
+{	
+	height: 100%;
+	vertical-align: top;
+}
+#loginbox
+{
+	border: 1px #000 solid;
+	width: 100%;
+}
+#loginbox a
+{
+	color: #000;
+}
+.tableLabel
+{
+	font-size: 12px;
+	text-align: -moz-right;
+	text-align: right;
+}
+#rightCol
+{
+	height: 100%;
+}
+#schoolsearchbox
+{
+	border: 1px #000 solid;
+}
+#schoolsearchbox a
+{
+	color: #000;
+}
+#vendorloginbox
+{
+	margin-top: 2px;
+	border: 1px #000 solid;
+}
+#submitButton
+{
+	text-align: -moz-left;
+	text-align: left;
+}
+#submitButton a
+{
+	font-size: 10px;
+}
+#loginButton
+{
+	float: right;
+}
+#midCol
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#midCol img
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.error
+{
+	width: 100%;
+	background-color: #fAA;
+	border: 2px #F00 solid;
+	color: #F00;
+	text-align: -moz-center;
+	text-align: center;
+}
+#body
+{
+	margin-top: 25px !important;
+}

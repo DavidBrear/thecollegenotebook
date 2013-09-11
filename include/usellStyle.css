@@ -1,0 +1,181 @@
+/************U-SELL********************************/
+#searchBar
+{
+	border: 1px #000 solid;
+	background-color: #FFF;
+	padding-top: 20px;
+
+}
+#USellCenterBox
+{
+	margin: 0px auto;
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #FFF;
+	color: #000;
+	padding: 0px;
+}
+
+#searchBar p
+{
+	display: inline;
+	position: relative;
+	top: -7px;
+	color: #000;
+}
+#searchBar table
+{
+	vertical-align: top;
+}
+#USellSearch
+{
+	width:600px;
+	border: 1px #FFF solid;
+	text-align: -moz-center;
+	text-align: center;
+}
+#USellProdTable td
+{
+	vertical-align: top;
+}
+#ad
+{
+	width: 100px;
+	border: 1px #000 solid;
+	background-color: #F0F0F0;
+	height: 500px;
+	color: #000;
+
+}
+#ad div
+{
+	text-align: -moz-center;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 200px;
+	width: 80px;
+	height: 100px;
+	float: left;
+	background-color: #F0F0F0;
+}
+#products
+{
+	border: 1px #AAA solid;
+	background-color: #F0F0F0;
+	width: 800px;
+	
+}
+
+#products table
+{
+	width: 100%;
+}
+#products table th
+{
+	border-bottom: 1px #AAA solid;
+}
+#products table td
+{
+	border-bottom: 1px #000 solid;
+	border-left: 1px #E5E5E5 solid;
+	border-right: 1px #E5E5E5 solid;
+	text-align: -moz-center;
+	text-align: center;
+	padding: 5px;
+	font-size: 12px;
+}
+#products .description
+{
+	text-align: -moz-left;
+	text-align: left;
+	width: 550px;
+}
+#USellBody
+{
+	width: 917px;
+	background-color: #F0F0F0;
+	border: 1px #AAA solid;
+}
+.mySellsLink
+{
+	padding-bottom: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+	border: 1px #454b65 dashed;
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #D0D0D0;
+	width: 100px;
+	padding-bottom: 20px;
+}
+.mySellsLink a
+{
+	color: #555 !important;
+	margin-left: 5px;
+}
+.mySellsLink a:hover
+{
+	color: #FFF !important;
+	text-decoration: none !important;
+}
+.mySellsLink p
+{
+	
+	color: #455487;
+	
+}
+#addSellTable
+{
+	width: 100%;
+}
+#addSellTable td.tables
+{
+	width: 50%;
+}
+#addSellTable table
+{
+	margin: 0px auto;
+}
+#addSellTable table td.cat
+{
+	font-size: 12px;
+	text-align: -moz-right;
+	text-align: right;
+	font-weight: bold;
+}
+#currentSell
+{
+	border: 1px #000 solid;
+}
+#currentSell td.cat
+{
+	width: 100px;
+	background-color: #454b65;
+	color: #FFF;
+	font-weight: bold;
+}
+#currentSell td
+{
+	border: 1px #AAA solid;
+}
+#currentSell td
+{
+	font-size: 12px;
+}
+#addSell textarea
+{
+	overflow: auto;
+}
+#mySellsAdd
+{
+	width: 100px;
+	height: 30px;
+}
+#productPicture
+{
+	padding: 0px;
+	margin: 0px;
+	background-image: url('/images/loading.png');
+	background-color: #F0F0F0;
+}
+/*******END U-SELL********************************/

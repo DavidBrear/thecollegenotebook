@@ -1,0 +1,90 @@
+.header1Bl
+{
+	font-size: 30px;
+	color: #000;
+}
+.header2Bl
+{
+	font-size: 25px;
+	color: #000;
+}
+.header3Bl
+{
+	font-size: 20px;
+	color: #000;
+}
+.header4Bl
+{
+	font-size: 15px;
+	color: #000;
+}
+.header5Bl
+{
+	font-size: 10px;
+	color: #000;
+}
+.header1W
+{
+	font-size: 30px;
+	color: #FFF;
+}
+.header2W
+{
+	font-size: 25px;
+	color: #FFF;
+}
+.header3W
+{
+	font-size: 20px;
+	color: #FFF;
+}
+.header4W
+{
+	font-size: 15px;
+	color: #FFF;
+}
+.header5W
+{
+	font-size: 10px;
+	color: #FFF;
+}
+.header1Gb
+{
+	font-size: 30px;
+	color: #FFF;
+	color: #FFF;
+	background-color: #004309;
+	border: 2px #000 solid;
+}
+.header2Gb
+{
+	font-size: 25px;
+	color: #FFF;
+	color: #FFF;
+	background-color: #004309;
+	border: 2px #000 solid;
+}
+.header3Gb
+{
+	font-size: 20px;
+	color: #FFF;
+	background-color: #004309;
+	border: 2px #000 solid;
+}
+.header4Gb
+{
+	font-size: 15px;
+	color: #FFF;
+	color: #FFF;
+	background-color: #004309;
+	border: 2px #000 solid;
+}
+.header5Gb
+{
+	font-size: 10px;
+	color: #FFF;
+	color: #FFF;
+	background-color: #004309;
+	border: 2px #000 solid;
+	width: 100%;
+}

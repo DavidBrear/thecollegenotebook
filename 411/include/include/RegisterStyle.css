@@ -1,0 +1,19 @@
+#registerTitle
+{
+	text-align: -moz-left;
+	text-align: left;
+	background-color: #F0F0F0;
+	border: 1px #AAA solid;
+}
+#registerTitle div
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 15px;
+	font-family: Comic Sans MS;
+}
+#registerTitle div.alert
+{
+	font-size: 12px;
+	font-family: TIMES NEW ROMAN;
+}

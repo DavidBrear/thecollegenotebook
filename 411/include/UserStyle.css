@@ -1,0 +1,45 @@
+#schoolIndexSearch
+{
+	float: right;
+	width: 150px;
+	background-color: #F0F0F0;
+	border: 1px #DDD solid;
+}
+#friendsList
+{
+	margin: 15px auto;
+	width: 500px;
+	border: 1px #E0E0E0 solid;
+}
+#friendsList td
+{
+	background-color: #EEE;
+	padding: 10px 0px;
+	border-bottom: 1px #E5e5e5 solid;
+}
+#friendsList .friendsTD
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+.schoolsearch
+{
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #DDD;
+}
+.schoolIndexCenterbox
+{
+	width: 765px;
+	margin-left: 150px;
+}
+.pagetitle2
+{
+	background-color: #F0F0F0;
+	border: 1px #DDD solid;
+	width: 150px;
+	padding: 10px;
+	margin-left: 200px;
+	text-align: -moz-center;
+	text-align: center;
+}

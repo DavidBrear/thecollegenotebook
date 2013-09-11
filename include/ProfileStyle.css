@@ -1,0 +1,411 @@
+/**THIS IS ONLY FOR THE PROFILES*/
+#IDbox
+{
+	position: absolute;
+	background-color: #454b65;
+	color: #FFF;
+	border: 2px #FFF solid;
+	display: none;
+	filter:alpha(opacity=75);
+	-moz-opacity: .75;
+	opacity: .75;
+	padding: 2px;
+	max-width: 300px;
+}
+#profileTable
+{
+	border: 1px #AAA solid;
+}
+#profileContent
+{
+	padding: 2px;
+	text-align: right;
+	text-align: -moz-right;
+	
+	width: 930px;
+}
+#updating
+{
+	display: none;
+}
+.subjDef
+{
+	display: block;
+	font-size: 11px;
+	text-align: -moz-left;
+	text-align: left;
+}
+.grayReview
+{
+	background-color: #E0E0E0;
+	display: block;
+	font-size: 11px;
+	color: #000;
+	text-align: -moz-left;
+	text-align: left;
+	border-top: 2px #777 solid;
+	border-bottom: 2px #777 solid;
+	
+}
+#reviewsDiv a:hover
+{
+	text-decoration: none !important;
+}
+#quoteDiv
+{
+	display: none;
+	background-color: #fff380;
+}
+#editQuote
+{
+	background-color: #FFF;
+}
+#ViewAllCommentBox
+{
+	text-align: -moz-left;
+	text-align: left;
+	width: 500px;
+	margin: 0px auto;
+	background-color: #F0F0F0;
+	border-left: 1px #AAA solid;
+	border-right: 1px #AAA solid;
+}
+#navigation
+{
+	margin-top: 20px;
+	float: left;
+	width: 133px;
+	position: absolute;
+	text-align: -moz-center;
+	text-align: center;
+	
+}
+#navigation a
+{
+	font-size: 12px;
+	display: block;
+	margin-top: 5px;
+	border-top: 1px #AAA solid;
+	border-bottom: 1px #AAA solid;
+	background-color: #FFF;
+	color: #555;
+	width: 100%;
+	text-decoration: none;
+	font-weight: normal;
+}
+#navigation a:hover
+{
+	display: block;
+	margin-top: 5px;
+	border-top: 1px #AAA solid;
+	border-bottom: 1px #AAA solid;
+	background-color: #D0D0D0;
+	color: #FFF;
+	text-decoration: none !important;
+	
+}
+#editDiv
+{
+	height: 14px;
+}
+#editDiv a
+{
+	height: 14px;
+}
+#Information
+{
+	width: 900px;
+}
+#userPictureArea
+{
+	text-align: right;
+	padding-left: 115px;
+}
+#userPicture
+{
+	padding-top: 5px;
+	text-align: -moz-center;
+	text-align: center;
+	width: 360px;
+	background-color: #FFF;
+	border-top: 1px #DDD solid;
+	border-bottom: 1px #AAA solid;
+	border-left: 1px #DDD solid;
+	border-right: 1px #AAA solid;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 3px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#userPictureArea a
+{
+	font-size: 10px !important;
+	color: #454b65;
+}
+#userDesc a
+{
+	font-size: 12px;
+}
+#ProfTop
+{
+	font-size: 12px;
+	width: 355px;
+	height: auto;
+	background-color: #FFF;
+	border: 1px #aaa solid;
+	margin:  0px auto;
+	text-align: -moz-left;
+	text-align: left;
+	overflow: hidden;
+	margin-bottom: 5px;
+	z-index: 10;
+	
+}
+#ProfTop .pageTitle2
+{
+	margin: 0px auto;
+}
+#ProfTop table
+{
+	font-size: 12px !important;
+	width: 100%;
+	height: 190px;
+}
+#ProfTop table td
+{
+	border-bottom: 1px #AAA solid;
+}
+#ProfTop table td.att
+{
+	background-color: #DDD;
+	color: #525252;
+	text-align: -moz-center;
+	text-align: center;
+	width: 100px;
+	font-weight: bold;
+}
+#ProfTop table td.likes
+{
+	background-color: #DFD;
+	color: #060;
+	
+}
+#refers
+{
+	font-size: 12px;
+	width: 355px;
+	height: auto;
+	background-color: #FFF;
+	margin:  0px auto;
+	text-align: -moz-left;
+	text-align: left;
+	overflow: hidden;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	z-index: 10;
+	border: 1px #AAA solid;
+}
+#refers table
+{
+	width: 355px;
+	background-color: #FFF;
+}
+#refers table .att
+{
+	text-align: -moz-center;
+	text-align: center;
+	width: 125px;
+}
+#refers table td
+{
+	text-align: -moz-left;
+	text-align: left;
+}
+.likesInner
+{
+	overflow: auto;
+	
+}
+.dislikesInner
+{
+	overflow: auto;
+}
+#ProfTop table td.dislikes
+{
+	background-color: #FDD;
+	color: #900;
+}
+#left
+{
+	float: left;
+	width: 400px;
+}
+#left #leftTable
+{
+	width: 400px;
+}
+#left #leftTable td
+{
+	vertical-align: top;
+}
+#users
+{
+	width: 355px;
+	background-color: #FFF;
+	border: 1px #AAA solid;
+	font-size: 12px;
+	text-align: -moz-center;
+	text-align: center;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+#users a
+{
+	font-weight: normal;
+}
+#adspace
+{
+	width: 120px;
+	height: 500px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#adspace img
+{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+#left a:hover
+{
+	color: #333;
+	text-decoration: underline;
+}
+#right
+{
+	width: 420px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-right: 2px;
+	float: right;
+	
+}
+#friendsBox
+{
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #FFF;
+	width: 400px;
+	height: 250px;
+	margin-right: 10px;
+	margin-left: 9px;
+	border-top: 1px #AAA solid;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+#friendsBox table
+{
+	margin: 0px auto;
+}
+#aboutMeBox
+{
+	font-size: 12px;
+	text-align: -moz-left;
+	text-align: left;
+	background-color: #FFF;
+	width: 400px;
+	margin-right: 10px;
+	margin-left: 9px;
+	border-top: 1px #AAA solid;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+#commentsBox
+{
+	font-size: 12px;
+	text-align: -moz-left;
+	text-align: left;
+	background-color: #FFF;
+	width: 400px;
+	margin-right: 10px;
+	margin-left: 9px;
+	border-top: 1px #AAA solid;
+	border-left: 1px #F0F0F0 solid;
+	margin-top: 10px;
+	min-height: 300px;
+	overflow: auto;
+}
+#profileComment
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#profileComment textarea
+{
+	color: #AAA;
+	overflow: auto;
+}
+#aboutMeTable .att
+{
+	text-align: -moz-center;
+	text-align: center;
+	width: 90px;
+}
+#aboutMeTable td
+{
+	text-align: -moz-left;
+	text-align: left;
+	border: 1px #F0F0F0 solid;
+	background-color: #FCFCFC;
+}
+#contactInfo
+{
+	margin-top:5px;
+	margin-bottom: 25px;
+}
+fieldset
+{
+	background-color: #FaFaFa;
+	border: 1px #AAA solid;
+}
+.pageTitle2Profile
+{
+	font-size: 15px;
+	font-family: Sans;
+	color: #575757;
+	font-weight: bold;
+	background-image: url('../images/grayDesc.gif');
+	background-repeat: repeat-x;
+	background-color: #F0F0F0;
+	text-align: -moz-left;
+	text-align: left;
+	padding-top: 3px;
+	padding-bottom: -3px;
+}
+.pagetitle2
+{
+	font-size: 15px;
+	font-family: Sans;
+	font-weight: bold;
+	color: #575757;
+	background-image: url('../images/grayDesc.gif');
+	background-repeat: repeat-x;
+	background-color: #F0F0F0;
+	text-align: -moz-left;
+	text-align: left;
+	padding-top: 3px;
+	padding-bottom: -3px;
+}
+.date
+{
+	font-size: 10px;
+	color: #AAA solid;
+}
+.commentText
+{
+	float: left;
+}
+/**END ONLY FOR PROFILES*/

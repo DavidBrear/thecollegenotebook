@@ -1,0 +1,40 @@
+
+
+#reviewTable
+{
+	width: 654px;
+	border-top: 1px #AAA solid;
+	border-left: 2px #AAA solid;
+	border-bottom: 1px #AAA solid;
+	border-right: 2px #AAA solid;
+	background-color: #FFF;
+	margin: 10px;
+}
+#reviewTable p
+{
+	font-weight: bold;
+	color:#004309;
+	font-size: 12px;
+}
+#reviewTable .caption
+{
+	font-size: 15px;
+	color: #000;
+	text-align: -moz-center;
+	text-align: center;
+	 
+}
+#reviewTable td
+{
+	border: 1px #DDD solid;
+	margin-bottom: 3px;
+	font-size: 12px;
+}
+#reviewTable #review
+{
+	text-align: -moz-left;
+	text-align: left;
+}
+
+
+

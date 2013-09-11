@@ -1,0 +1,47 @@
+<script type="text/javascript">
+function initMessages()
+{
+	setInterval('getMessages()', 5000);
+}
+function getMessages()
+{
+  var xmlHttp;
+  try
+    {
+    // Firefox, Opera 8.0+, Safari
+    xmlHttp=new XMLHttpRequest();
+    }
+  catch (e)
+    {
+    // Internet Explorer
+    try
+      {
+      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+      }
+    catch (e)
+      {
+      try
+        {
+        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+      catch (e)
+        {
+        alert("Your browser does not support AJAX!");
+        return false;
+        }
+      }
+    }
+    xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4)
+        {
+        document.getElementById('message').innerHTML = xmlHttp.responseText;
+        }
+      }
+	var time = 'http://www.davidbrear.com/include/messCheck.php';
+    xmlHttp.open("GET", time, true);
+	xmlHttp.setRequestHeader('Content-Length', '999');
+	xmlHttp.setRequestHeader('Content-Type', 'text/html');
+    xmlHttp.send(null);
+}
+</script>

@@ -1,0 +1,23 @@
+#header
+{
+	background-color: #EEE;
+	text-align: -moz-center;
+	text-align: center;
+}
+#header img
+{
+	margin: 0px auto;
+}
+#body input
+{
+	width: 100%;
+	font-size: 50px;
+	float: left;
+}
+#body p
+{
+	float: left;
+	height: 10px;
+	font-size: 50px;
+	color: #004309;
+}

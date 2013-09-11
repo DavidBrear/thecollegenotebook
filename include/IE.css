@@ -1,0 +1,29 @@
+body
+{
+	text-align: center;
+	padding: 0px auto;
+}
+#headerNavigation div
+{
+	height: 30px;
+	width: 70px;
+	cursor: pointer;
+	margin-left: -3px;
+	margin-right: -2px;
+}
+#headerNavigation a
+{
+	padding: 0px;
+	margin: 0px;
+}
+#headerNavigation img
+{
+	padding: 0px;
+	margin: 0px;
+	width: 2px;
+}
+#bodyBottom
+{
+	position: relative;
+	top: 3px;
+}

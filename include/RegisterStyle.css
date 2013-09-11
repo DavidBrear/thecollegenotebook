@@ -1,0 +1,53 @@
+#registerTitle
+{
+	width: 100%;
+	background-color: #454b65;
+	color: #FFF;
+	height: 140px;
+	text-align: -moz-left;
+	text-align: left;
+}
+#registerTitle div
+{
+	margin: 0px auto;
+	font-size: 12px;
+	text-decoration: underline;
+	width: 100%;
+	text-align: -moz-center;
+	text-align: center;
+}
+#personDiv
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#adDiv
+{
+	display: none;
+	text-align: -moz-center;
+	text-align: center;
+}
+#otherDiv
+{
+	display: none;
+	text-align: -moz-center;
+	text-align: center;
+}
+#whoDiv
+{
+	background-color: #FFF;
+	border: 1px #525252 solid;
+	position: relative;
+}
+#exclamationLeft
+{
+	margin-left: 200px;
+	margin-top: 5px;
+	float: left;
+}
+#exclamationRight
+{
+	margin-right: 200px;
+	margin-top: 5px;
+	float: right;
+}

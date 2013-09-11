@@ -1,0 +1,160 @@
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+}
+#schoolIndexSearch
+{
+	float: right;
+	border: 1px #000 dotted;
+	width: 200px;
+	margin: 10px;
+	background-color: #FFF;
+}
+#schoolIndexSearch input
+{
+	font-size: 12px;
+}
+#schoolIndexSearch p
+{
+	font-size: 12px;
+}
+#schoolIndexSearch a
+{
+	font-size: 12px;
+	color: #002a71;	
+}
+#schoolIndexSearch a:hover
+{
+	text-decoration: underline;
+}
+#schoolIndexSearch .button
+{
+	background-color: #004347;
+	color: #FFF;
+	font-weight: bold;
+	cursor: pointer;
+	letter-spacing: 1px;
+}
+.RoundedSquare
+{
+	width: 504px;
+	border-left: 2px #404040 solid;
+	border-right: 2px #404040 solid;
+	font-size: 10px;
+	background-color: #004347;
+	margin-left: 70px;
+	padding: 0px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.RoundedSquare img
+{
+	margin: 0px;
+	padding: 0px;
+}
+.RoundSquareTop
+{
+	width: 100%;
+}
+#schools
+{
+	border: 2px #AAA solid;
+	width: 500px;
+	background-color: #004347;
+}
+#schools th
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#schools th div
+{
+	margin: 0px auto;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schools th a
+{
+	margin: 0px auto;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schools caption
+{
+	margin: 0px auto;
+	font-size: 11px;
+	color: #002a71;
+}
+#schools td
+{
+	border-bottom: 1px #AAA solid;
+	font-size: 12px;
+}
+#schools th
+{
+	text-align: left;
+}
+#schools th a
+{
+	font-size: 12px;
+	color: #FFF !important;
+	text-decoration: none;
+}
+#schools .pagetitle2
+{
+	background-color: #DDD;
+	color: #FFF;
+}
+.schoolsDiv
+{
+	width: 100%;
+	display: none;
+	margin: 0px auto;
+	background-color: #FFF;
+}
+.schoolsDiv th
+{
+	margin: 0px auto;
+	text-align: -moz-center !important;
+	text-align: center !important;
+	font-size: 15px;
+	color: #FFF;
+}
+.schoolsDiv td
+{
+	width: 50%;
+}
+.RoundSquareTop
+{
+	height: 11px;
+	background-repeat: repeat-x;
+}
+.RoundSquareTL
+{
+	float: left;
+	position: relative;
+	left: -2px;
+}
+.RoundSquareTR
+{
+	float: right;
+	position: relative;
+	left: 2px;
+}
+.RoundSquareBot
+{
+	height: 12px;
+}
+.RoundSquareBL
+{
+	float: left;
+	position: relative;
+	left: -2px;
+}
+.RoundSquareBR
+{
+	float: right;
+	position: relative;
+	left: 2px;
+}

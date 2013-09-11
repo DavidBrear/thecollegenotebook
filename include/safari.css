@@ -1,0 +1,102 @@
+body
+{
+	text-align: center;
+	margin: 0px auto;
+}
+#schoolHomeReviews table
+{
+	margin-right: 300px;
+}
+#inbox
+{
+	margin-right: 150px;
+}
+#schoolHomeBottom
+{
+	margin: 0px;
+}
+#schoolHomeBottom td
+{
+	width: 400px;
+}
+#schoolHomeReviews
+{
+	font-size: 20px;
+	color: #004309;
+	margin-left: 15px
+}
+#schoolHomeReviews th
+{
+	font-size: 13px;
+	color: #FFF;
+	background-color: #004309;
+}
+#schoolHomeReviews table
+{
+	font-size: 12px;
+	border: 2px #AAA solid;
+	min-height: 300px;
+	margin: 0px;
+}
+#schoolHomeReviews td
+{
+	border-bottom: 1px #AAA solid;
+	border-right: 1px #AAA solid;
+	border-top: 1px #CCC solid;
+	border-left: 1px #CCC solid;
+}
+#schoolHomeReviews td.cat
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#schoolHomeSearch
+{
+	width: 300px;
+	margin-left: 15px;
+	border: 1px #AAA solid;
+}
+#schoolHomeSearch table
+{
+}
+#schoolHomeVendor
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#schoolHomeVendor table
+{
+	border: 1px #AAA solid;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schoolHomeVendor table td
+{
+	border: 1px #AAA solid;
+}
+.schoolVendor
+{
+	width: 300px;
+	vertical-align: top;
+}
+#AdsTableDiv
+{
+	float: left;
+	width: 500px;
+}
+#userPictureArea
+{
+	height: 400px !important;
+	margin-bottom: 5px;
+}
+#friendsList
+{
+	margin-left: 20px;
+}
+.none
+{
+	width: 350px !important;
+	overflow: hidden !important;
+	background-color: none;
+	height: 20px;
+}

@@ -1,0 +1,81 @@
+#profileedit label
+{
+	font-size: 12px;
+	text-align: -moz-right;
+	text-align: right;
+	width: 30px;
+}
+#profileedit td
+{
+	font-size: 12px;
+}
+#likes
+{
+	display: none;
+}
+#editLeft
+{
+	display: none;
+}
+#editRight
+{
+	display: none;
+}
+#Editlikes
+{
+	background-color: #afa;
+	border: 1px #050 solid;
+	overflow: auto;
+}
+#Editdislikes
+{
+	background-color: #faa;
+	border: 1px #500 solid;
+	overflow: auto;
+}
+#editNav
+{
+	background-color: #F0F0F0;
+	margin-left: 150px;
+	width: 765px;
+	height: 35px;
+	border: 1px #000 solid;
+	margin-bottom: 10px;
+	padding: 0px;
+}
+#succ
+{
+	margin-left: 150px;
+}
+#editNav li
+{
+	display: inline;
+}
+#editNav div
+{
+	float: left;
+	margin-left: 5px;
+	background-color: #DDD;
+	border: 1px #555 solid;
+	padding: 5px;
+	margin-top: 5px;
+}
+#composebox
+{
+	width: 769px;
+	margin-left: 150px;
+	border-left: 1px #AAA solid;
+	background-color: #FAFAFA;
+}
+#schoolIndexHeader
+{
+	background-color: #F0F0F0;
+	border-bottom: 1px #000 solid;
+	margin: 0px auto;
+	margin-bottom: 5px;
+	width: 920px;
+}
+#schoolIndexHeader div
+{
+	font-size: 18px;
+}

@@ -1,0 +1,42 @@
+#navigation
+{
+	float: left;
+	margin-top: 130px !important;
+	margin-left: -165px;
+	text-align: -moz-center;
+	text-align: center;
+	position: absolute;
+	width: 306px !important;
+	height: 30px !important;
+	overflow: hidden;
+	padding: 0px !important;
+}
+#navigation a
+{
+	width: 50px !important;
+}
+#navigation div
+{
+	float: left !important;
+	margin: 0px !important;
+	padding-top: 8px !important;
+}
+#navigation img
+{
+	float: none !important;
+}
+#headerNavRight
+{
+	float: right !important;
+	position: relative;
+	left: 5px;
+}
+#testTop
+{
+	margin: 0px auto;
+	width: 920px;
+	margin-top: 30px;
+	padding: 0px;
+	position: relative;
+	top: 5px;
+}

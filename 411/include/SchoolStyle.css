@@ -1,0 +1,78 @@
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+}
+#schoolIndexSearch
+{
+	width: 500px;
+	margin-top: 10px;
+	margin-left: 300px;
+	margin-bottom: 5px;
+	height: 120px;
+	background-color: #FFF;
+}
+#schoolIndexSearch input
+{
+	font-size: 12px;
+}
+#schoolIndexSearch p
+{
+	font-size: 12px;
+}
+#schoolIndexSearch a
+{
+	font-size: 12px;
+	color: #002a71;	
+}
+#schoolIndexSearch a:hover
+{
+	text-decoration: underline;
+}
+#schoolIndexSearch .button
+{
+	background-color: #004347;
+	color: #FFF;
+	font-weight: bold;
+	cursor: pointer;
+	letter-spacing: 1px;
+}
+#schoolIndexSearch .box
+{
+	float: right;
+	width: 200px;
+}
+.schoolLinks
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+.RoundedSquare
+{
+	font-size: 10px;
+	padding: 0px;
+	margin: 5px;
+}
+.RoundedSquare fieldset
+{
+	border: 1px #CCC solid;
+	background-color: #F0F0F0;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 10px;
+}
+.RoundedSquare legend
+{
+	font-size: 12px;
+	font-weight: bold;
+}
+.RoundedSquare fieldset table
+{
+	width: 100%;
+}
+.even td
+{
+	background-color: #FFF;
+	border-top: 1px #CCC solid;
+	border-bottom: 1px #CCC solid;
+}

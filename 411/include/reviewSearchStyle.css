@@ -1,0 +1,30 @@
+.schoolIndexCenterbox
+{
+	width: 770px;
+}
+#reviewSearch
+{
+	width: 430px;
+}
+#reviewSearch td
+{
+	border: 1px #DDD solid;
+	padding: 5px;
+}
+#reviewSearch td p
+{
+	font-size: 10px;
+	background-color: #D0D0D0;
+	border: 1px #BBB solid;
+}
+#reviewString
+{
+	border: 1px #CCC solid;
+	background-color: #EEE;
+	margin: 0px auto;
+}
+#reviewResults
+{
+	background-color: #FFF;
+	border: 1px #E0E0E0 solid;
+}

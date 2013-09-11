@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1">
+<message>
+	<to>
+		<firstName>David</firstName>
+		<lastName>Brear</lastName>
+	</to>
+	<from>
+		<firstName>Mike</firstName>
+		<lastName>Jones</lastName>
+	</from>
+	<subject>Hello friend</subject>
+	<body>Hey friend, what's going on?</body>
+</message>
+<message>
+	<to>
+		<firstName>David</firstName>
+		<lastName>Brear</lastName>
+	</to>
+	<from>
+		<firstName>Thomas</firstName>
+		<lastName>Thomason</lastName>
+	</from>
+	<subject>Hello friend</subject>
+	<body>Hey friend, what's going on?</body>
+</message>
+<message>
+	<to>
+		<firstName>David</firstName>
+		<lastName>Brear</lastName>
+	</to>
+	<from>
+		<firstName>Steve</firstName>
+		<lastName>Davis</lastName>
+	</from>
+	<subject>Hello friend</subject>
+	<body>Hey friend, what's going on?</body>
+</message>
+<message>
+	<to>
+		<firstName>David</firstName>
+		<lastName>Brear</lastName>
+	</to>
+	<from>
+		<firstName>Sarah</firstName>
+		<lastName>Black</lastName>
+	</from>
+	<subject>Hello friend</subject>
+	<body>Hey friend, what's going on?</body>
+</message>

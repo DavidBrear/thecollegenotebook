@@ -1,0 +1,61 @@
+#placeAd
+{
+	width: 200px;
+	height: 500px;
+	float: left;
+}
+#placeTable
+{
+	border: 1px #000 solid;
+	width: 700px;
+	margin: 0px auto;
+}
+.deals
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+.deals img
+{
+	margin-top: 2px;
+	border: 2px #555 dashed;
+}
+.deals ul
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+.deals li
+{
+	list-style: disc !important;
+}
+.dealDesc
+{
+	display: block;
+	text-align: -moz-left;
+	text-align: left;
+	margin: 0px auto;
+	background-color: #F0F0F0;
+	border: 1px #AAA dotted;
+	font-size: 12px;
+}
+#placeTable td
+{
+	border-bottom: 1px #CCC solid;
+}
+#placeTable .class
+{
+	color: #005b0c !important;
+}
+#placeTable .description
+{
+	font-size: 12px;
+	font-weight: bold;
+}
+#placeTable .heading
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 20px !important;
+	color: #005b0c;
+}

@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www\.thecollegenotebook\.com$ [NC]
+RewriteRule (.*) http://TheCollegeNotebook.com/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} thecollegenotebook\.com$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.)+ finder.php

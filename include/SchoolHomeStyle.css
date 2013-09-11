@@ -1,0 +1,323 @@
+#schoolHomeContent
+{
+	min-height: 400px;
+	border-top: 2px #AAA solid;
+	border-bottom: 2px #AAA solid;
+	background-color: #DDD;
+	width: 689px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 191px;
+	margin-right: 2px;
+	color: #000;
+}
+#schoolHomeContent a
+{
+	color: #454b65;
+}
+#spaceholder
+{
+	width: 1px;
+	height: 200px;
+	float: left;
+	display: inline;
+}
+#schoolHomeContent a:hover
+{
+	text-decoration: underline;
+}
+#schoolHomeTable
+{
+	width: 920px;
+	color: #000;
+	font-size: 13px;
+	border-color: #000 #CCC #CCC #000;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	background-color: #F0F0F0;
+}
+#schoolHomeTable td
+{
+	border-bottom: 1px #AAA solid;
+	width: 500px;
+	vertical-align: top;
+}
+#schoolHomeTable .attribute
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	width: 150px;
+	border-right: 1px #AAA dotted;
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #454b65;
+}
+#schoolHomeTable .attribute a
+{
+	display: block;
+	font-size: 10px;
+	color: #FFF !important;
+}
+#schoolHomeTable td.gray div
+{
+	background-color: #F0F0F0;
+}
+#schoolHomeTable td div
+{
+	background-color: #FFF;
+}
+#schoolHomeTable td.gray div.alert
+{
+	background-color: #fff380;
+}
+#schoolHomeTable td div.alert
+{
+	background-color: #fff380;
+}
+.schoolMini
+{
+	width: 440px;
+	margin: 10px;
+	text-align: -moz-center;
+	text-align: center;
+	padding: 0px;
+	background-color: #F0F0F0;
+}
+
+.schoolHomeMini
+{
+	font-size: 11px;
+	width: 440px;
+	background-color: #454b65;
+	
+	border: 2px #454b65 solid;
+}
+.schoolHomeMini td
+{
+	background-color: #FFF;
+	padding: 2px;
+}
+.schoolHomeMini td.gray
+{
+	background-color: #F0F0F0;
+	padding: 2px;
+}
+.editField
+{
+	display: none;
+}
+.editField a
+{
+	cursor: pointer;
+}
+.editField textarea
+{
+	width: 100%;
+}
+/******SCHOOL HOME***************/
+.schoolName
+{
+	font-family: Comic Sans MS, Comic Sans, Times;
+	font-size: 30px;
+	color: #454b65;
+	border: 2px #454b65 solid;
+	background-color: #F0F0F0;
+	padding: 5px;
+}
+.schoolHomeHeader
+{
+	text-align: -moz-center;
+	text-align: center;
+	border-top: 2px #AAA solid;
+	border-bottom: 2px #AAA solid;
+	background-color: #A4A4A4;
+	background-image: url('../images/askQuestionBack.gif');
+	background-repeat: repeat-x;
+	border-left: 1px #D0D0D0 solid;
+	margin-top: 2px;
+	margin-right: 2px;
+	color: #000;
+	padding: 0px;
+}
+#SchoolHomeReviewTable
+{
+	font-size: 11px;
+	border: 2px #AAA solid;
+	width: 440px;
+	min-height: 300px;
+	margin-left: 5px;
+}
+#SchoolHomeReviewTable th
+{
+	color: #FFF;
+}
+#SchoolHomeReviewTable table
+{
+	width: 100%;
+}
+#SchoolHomeReviewTable table td
+{
+	width: 300px;
+}
+#SchoolHomeReviewTable table td.cat
+{
+	width: 100px;
+}
+
+.ReviewsDiv
+{
+	width: 100%;
+	display: none;
+	margin: 0px auto;
+}
+.headerRow a
+{
+	color: #FFF !important;
+	font-size: 11px !important;
+}
+.headerRow p
+{
+	color: #FFF !important;
+	font-size: 11px !important;
+}
+#schoolHomeReviews p.schoolTitle
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	color: #454b65;
+	background-color: #F0F0F0;
+	border: 1px #454b65 solid;
+}
+#schoolHomeReviews th
+{
+	font-size: 13px;
+	color: #FFF;
+	background-color: #454b65;
+}
+#schoolHomeReviews td
+{
+	border-bottom: 1px #AAA solid;
+	border-right: 1px #AAA solid;
+	border-top: 1px #CCC solid;
+	border-left: 1px #CCC solid;
+}
+#schoolHomeReviews td.cat
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 13px;
+	font-family: Comic Sans MS, Tahoma, Serif;
+}
+#schoolHomeSearch
+{
+	width: 300px;
+	border: 1px #AAA solid;
+	margin: 0px auto;
+}
+#schoolHomeVendor
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 20px;
+	color: #454b65;
+	border-width: 1px 2px 2px 1px;
+	border-color: #AAA #444 #444 #AAA;
+	border-style: solid;
+	padding: 0px 5px 5px 5px;
+}
+.ReviewTableHeader
+{
+	color: #FFF !important;
+	font-size: 50px;
+}
+#schoolHomeVendor table
+{
+	border: 1px #AAA solid;
+	width: 275px;
+	text-align: -moz-center;
+	text-align: center;
+	margin: 0px auto;
+}
+#schoolHomeVendor table td
+{
+	border: 1px #AAA solid;
+	font-size: 10px;
+}
+.schoolVendor
+{
+	width: 300px;
+	vertical-align: top;
+}
+#editTable
+{
+	border: 1px #AAA solid;
+}
+#schoolHomeBack
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 5px auto;
+	width: 930px;
+	border-width: 1px 2px 2px 1px;
+	border-style: solid;
+	border-color: #CCC #999 #999 #CCC;
+}
+.gray
+{
+	background-color: #CCC;
+}
+.back
+{
+	width: 275px;
+	margin: 5px auto;
+	margin-left: 275px;
+	background-color: #CCC;
+	border-bottom: 2px #C0C0C0 solid;
+	border-left: 2px #C0C0C0 solid;
+	border-right: 2px #C0C0C0 solid;
+	text-align: -moz-center;
+	text-align: center;
+}
+.ReportPage
+{
+	float: left;
+	font-size: 11px;
+	background-color: #fff380;
+	border: 2px #828324 solid;
+	color: #828324 !important;
+	margin: 3px;
+	position: absolute;
+}
+.ReportPage:hover
+{
+	background-color: #efe370;
+	border: 2px #929334 solid;
+}
+.notEditable
+{
+	border:2px #0a91c4 solid;
+	background-color: #0ab1e4;
+	color: #DDD;
+}
+#schoolHomeBottom
+{
+	margin: 0px auto;
+	width: 95%;
+}
+#schoolHomeBottom td
+{
+	width: 49%;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schoolHomeNav
+{
+margin: 3px auto;
+background-color: #F0F0F0;
+border-width: 1px 2px 2px 1px;
+border-color: #CCC #999 #999 #CCC;
+border-style: solid;
+width: 200px;
+}

@@ -1,0 +1,157 @@
+#schoolHomeTable
+{
+	width: 750px;
+	font-size: 12px;
+	border: 1px #DDD solid;
+}
+#schoolHomeTable td
+{
+	vertical-align: top;
+	width: 385px;
+}
+#schoolHomeBack
+{
+	width: 750px;
+	margin-left: 150px;
+}
+.schoolMini
+{
+	background-color: #002a71;
+	width: 100%;
+}
+.schoolMini td
+{
+	font-size: 12px;
+}
+.schoolHomeMini
+{
+	width: 100%;
+}
+.schoolHomeMini td
+{
+	background-color: #F0F0F0;
+	border-bottom: 1px #DDD solid;
+}
+.editField
+{
+	display: none;
+}
+.attribute
+{
+	width: 75px !important;
+	color: #FFF;
+	background-color: #002a71 !important;
+	vertical-align: middle !important;
+	text-align: -moz-center;
+	text-align: center;
+}
+.attribute a
+{
+	display: block;
+	color: #AAA;
+}
+.schoolHomeHeader
+{
+	width: 765px;
+	margin-left: 150px;
+	border-left: 1px #DDD solid;
+	background-color: #F0F0F0;
+}
+.schoolName
+{
+	color: #002a71;
+}
+.ReportPage
+{
+	float: left;
+}
+#schoolHomeNav
+{
+	float: left;
+	margin-left: 25px;
+	width: 100px;
+	text-align: -moz-center;
+	text-align: center;
+	border: 1px #000 solid;
+	background-color: #FFF;
+}
+.back
+{
+	margin: 0px auto;
+	border: 1px #DDD solid;
+	background-color: #F0F0F0;
+	width: 350px;
+	height: 30px;
+	vertical-align: middle !important;
+	text-align: -moz-center;
+	text-align: center;
+}
+.ReviewsDiv
+{
+	display: none;
+	background-color: #FFF;
+	width: 100%;
+}
+.ReviewsDiv td
+{
+	background-color: #F0F0F0;
+	width: 200px !important;
+	font-size: 12px;
+	border-right: 1px #AAA solid;
+}
+.ReviewsDiv th
+{
+	font-size: 12px;
+	border-right: 1px #AAA solid;
+	background-color: #E0E0E0;
+}
+#schoolHomeBottom
+{
+	width: 100%;
+}
+#schoolHomeBottom td
+{
+	width: 50%;
+	text-align: -moz-center;
+	text-align: center;
+	vertical-align: top;
+}
+#schoolHomeReviews
+{
+	background-color: #002a71;
+	width: 100%;
+}
+#schoolHomeReviews td
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+#schoolHomeReviews .headerRow
+{
+	width: 400px;
+	height: 30px;
+	background-color: #002a71;
+	background-image: url('/images/schoolReviewsBg.gif');
+	background-repeat: repeat-x;
+}
+#schoolHomeReviews .headerRow a
+{
+	color: #FFF;
+}
+#schoolHomeSearch
+{
+	border: 1px #AAA dotted;
+	background-color: #F0F0F0;
+}
+#schoolHomeSearch p
+{
+	font-size: 12px;
+	padding-top: 5px;
+	text-align: -moz-right;
+	text-align: right;
+}
+.schoolTitle
+{
+	color: #FFF;
+	font-size: 16px;
+}

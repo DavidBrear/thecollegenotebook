@@ -1,0 +1,13 @@
+Options +FollowSymLinks -MultiViews -Indexes
+rewriteEngine on
+
+#
+RewriteCond %{REQUEST_FILENAME} !-f
+#
+RewriteCond %{REQUEST_FILENAME} !-d
+#
+
+RewriteRule (.)+ finder.php
+
+   
+

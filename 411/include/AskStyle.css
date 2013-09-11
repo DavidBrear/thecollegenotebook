@@ -1,0 +1,90 @@
+.askTextarea
+{
+	display: none;
+}
+.alert
+{
+	font-size: 14px;
+}
+#askForm
+{
+	font-size: 12px;
+	color: #FFF;
+	width: 785px;
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #004347;
+}
+#askForm td
+{
+	width: 50%;
+	vertical-align: top;
+}
+#askTable
+{
+	margin: 0px auto;
+	width: 700px;
+}
+#askTable tr
+{
+	background-color: #004347;
+	border: 2px #FFF solid;
+	
+}
+#askTable td
+{
+	padding: 10px;
+}
+#askTable a
+{
+	color: #CCC;
+	margin: 5px;
+	padding: 1px;
+	font-family: Times New Roman;
+	border: 1px #FFF solid;
+}
+.questionDate
+{
+	float: right;
+	font-size: 9px;
+	color: #AAA;
+}
+.questionSubject
+{
+	font-size: 14px;
+	color: #FFF;
+	font-family: Comic Sans MS, Trebuchet;
+}
+.questionBody
+{
+	font-size: 12px;
+	color: #FFF;
+	background-color: #004347;
+	margin-bottom: 10px;
+}
+.askResponseArea
+{
+	display: none;
+	width: 100%;
+	margin: 0px auto;
+	background-color: #FFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.askResponseArea table
+{
+	margin: 0px auto;
+	background-color: #F0F0F0;
+	width: 95%;
+}
+.askResponseArea table th
+{
+	color: #DDF;
+}
+.askResponseArea .responseText
+{
+	margin-top: 15px;
+	font-size: 12px;
+	color: #FFF;
+}
+.askResponseArea

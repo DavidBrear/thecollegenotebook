@@ -1,0 +1,142 @@
+body
+{
+	background-image: url('../images/background.gif');
+	background-repeat: repeat-x;
+	background-color: #FFF;
+	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma, Verdana, Trebuchet MS, Geneva, Arial, Times New Roman;
+	font-size: 12px;
+}
+a
+{
+	text-decoration: none;
+}
+#body
+{
+	width: 970px;
+	margin: 0px auto;
+	border: 1px #000 solid;
+	background-image: url('../images/bodyBack.gif');
+	background-repeat: repeat-y;
+}
+#headerNavigation
+{
+	background-image: url('../images/navigationBack.gif');
+	background-repeat: repeat-x;
+	height: 30px;
+	background-color: #454B65;
+}
+#headerNavigation div
+{
+	float: left;
+	padding-top: 7px;
+	height: 23px;
+	overflow: hidden;
+	width: 70px;
+	text-align: -moz-center;
+	text-align: center;
+	color: #FFF;
+	background-image: url('../images/navigationBack.gif');
+	background-repeat: repeat-x;
+	font-weight: bold;
+}
+#headerNavigation a
+{
+	color: #FFF !important;
+}
+#headerNavigation a:hover
+{
+	text-decoration: none !important;
+}
+#headerNavigation img
+{
+	float: left;
+}
+#title
+{
+	background-image: url('../images/headerBack.gif');
+	background-repeat: repeat-x;
+	height: 100px;
+	width: 970px;
+	background-color: #454B65;
+}
+#headerSearch
+{
+	margin-top: 20px;
+	margin-right: 20px;
+	float: right;
+	text-align: -moz-center;
+	text-align: center;
+	color: #FFF;
+}
+.title
+{
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	background-color: #454b65;
+	font-size: 16px;
+	color: #FFF;
+}
+.title span
+{
+	
+	margin-left: 15px;
+	background-position: 0px -5px;
+	background-color: #454b65;
+}
+.title2
+{
+	background-color: #454b65;
+	color: #FFF;
+	font-weight: bold;
+	text-align: -moz-center;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#content
+{
+	padding: 1px;
+}
+#content td
+{
+	font-family: Verdana;
+	font-size: 12px;
+}
+.RoundSquareTop
+{
+	height: 11px;
+	background-image: url('../images/RoundTopMid.gif');
+	background-repeat: repeat-x;
+}
+.RoundSquareTL
+{
+	float: left;
+	position: relative;
+	left: -2px;
+}
+.RoundSquareTR
+{
+	float: right;
+	position: relative;
+	left: 2px;
+}
+.RoundSquareBot
+{
+	height: 11px;
+	background-image: url('../images/RoundBotMid.gif');
+	background-repeat: repeat-x;
+}
+.RoundSquareBL
+{
+	float: left;
+	position: relative;
+	left: -2px;
+}
+.RoundSquareBR
+{
+	float: right;
+	position: relative;
+	left: 2px;
+}

@@ -1,0 +1,158 @@
+#profNav
+{
+	float: left;
+	width: 134px;
+	margin-left: 8px;
+	margin-right: 8px;
+	text-align: -moz-center;
+	text-align: center;
+}
+#profNav div
+{
+	width: 100%;
+	border: 1px #AAA solid;
+}
+#profNav div div
+{
+	width: 130px;
+	border: 1px #AAA solid;
+	margin: 0px auto;
+	margin-bottom: 2px;
+}
+#IDbox
+{
+	position: absolute;
+	display: none;
+	background-color: #002a71;
+	border: 2px #FFF solid;
+	color: #FFF;
+	padding: 2px;
+	filter:alpha(opacity=60);
+	-moz-opacity: .6;
+	opacity: .6;
+}
+#profileTable
+{
+	width: 920px;
+	margin: 0px auto;
+}
+#userPictureArea
+{
+	border: 1px #AAA solid;
+	width: 300px;
+	text-align: -moz-center;
+	text-align: center;
+}
+#userPictureArea div.userDiv
+{
+	border: 1px #000 solid;
+	background-color: #F0F0F0;
+	margin: 1px;
+}
+#userpictureIMG
+{
+	margin: 0px;
+	margin-top: 10px;
+	border: 1px #F0F0F0 solid;
+}
+#userDesc
+{
+	font-size: 12px;
+}
+#userDesc p
+{
+	margin: 0px;
+	font-variant: small-caps;
+}
+#left
+{
+	float: left;
+	text-align: -moz-center;
+	text-align: center;
+}
+#right
+{
+	float: right;
+}
+#aboutMeBox
+{
+	border: #002a71 1px solid;
+	font-size: 12px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#aboutMeBox p
+{
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	font-weight: bold;
+	color: #333;
+}
+#friendsBox
+{
+	border: #002a71 1px solid;
+	text-align:-moz-center;
+	text-align:center;
+}
+#commentsBox
+{
+	border: #002a71 1px solid;
+	font-size: 12px;
+	font-family: Arial;
+	width: 450px;
+}
+#commentsBox p
+{
+	font-size: 12px;
+	margin: 0px;
+}
+.pageTitle2Profile
+{
+	background-color: #002a71;
+	text-align: -moz-center;
+	text-align: center;
+	color: #FFF;
+	font-size: 12px;
+}
+#ProfTop
+{
+	width: 300px;
+	border: 1px #002a71 solid;
+	font-size: 12px;
+}
+#ProfTop .att
+{
+	font-size: 12px;
+	background-color: #F0F0F0;
+	text-align: -moz-right;
+	text-align: right;
+}
+.likes
+{
+	background-color: #afa;
+	color: #000;
+	font-size: 12px;
+	width: 100%;
+}
+.dislikes
+{
+	background-color: #Faa;
+	color: #000;
+	font-size: 12px;
+}
+#quoteDiv
+{
+	display: none;
+	font-size: 12px;
+	background-color: #FFFFBB;
+}
+#quote
+{
+	width: 100%;
+}
+.likesInner
+{
+	width: 100%;
+	padding: 5px;
+}

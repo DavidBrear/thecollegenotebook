@@ -1,0 +1,97 @@
+
+#states
+{
+	border: 1px #000 dotted;
+	font-size: 20px;
+}
+#states td
+{
+	border: 1px #AAA dotted;
+}
+#schools
+{
+	border: 2px #AAA solid;
+	width: 600px;
+	background-color: #F0F0F0;
+}
+#schools th
+{
+	text-align: -moz-center;
+	text-align: center;
+	background-color: #F0F0F0;
+	color: #525252;
+}
+#schools th div
+{
+	margin: 0px auto;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schools th a
+{
+	margin: 0px auto;
+	text-align: -moz-center;
+	text-align: center;
+}
+#schools caption
+{
+	margin: 0px auto;
+	font-size: 11px;
+	color: #525252;
+}
+#schools td
+{
+	border-bottom: 1px #AAA solid;
+	font-size: 11px;
+}
+#schools th
+{
+	text-align: left;
+}
+#schools th a:hover
+{
+	color: #FFF !important;
+	text-decoration: none !important;
+}
+.city
+{
+	text-align: -moz-center;
+	text-align: center;
+}
+.schoolLinks
+{
+	text-align: -moz-center;
+	text-align: center;
+	font-size: 11px;
+}
+
+.schoolLinks a
+{
+	font-size: 11px;
+	letter-spacing: 2px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.schoolLinks a:hover
+{
+	color: #000 !important;
+}
+.schoolsDiv
+{
+	width: 100%;
+	display: none;
+	margin: 0px auto;
+	background-color: #FFF;
+}
+.schoolsDiv th
+{
+	margin: 0px auto;
+	text-align: -moz-center !important;
+	text-align: center !important;
+	font-size: 15px;
+	color: #FFF;
+}
+.schoolsDiv td
+{
+	width: 50%;
+}
